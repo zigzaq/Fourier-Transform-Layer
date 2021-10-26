@@ -1,2 +1,2 @@
-# Fourier-Tranform-Layer
-Fourier Tranform Layer for fast image processing in Neural Networks
+# Fourier-Transform-Layer
+Fourier Transform Layer for fast image processing in Neural Networks
